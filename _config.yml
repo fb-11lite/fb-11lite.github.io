@@ -1,11 +1,10 @@
 # Site settings
-title: Facebook 11 litw (FB 11 LITE)
+title: Facebook 11 litw 
 email: fb11lite@gmail.com.com
 url: https://fb-11lite.github.io/
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
+description: "Facebook 11 lite is directly related to our spamming and hacking life. fb 11 lite is the clone version of facebook lite. Fb 11 lite is not a separate software it is cloned from Fb lite by different software. You can safely use Facebook 11 Lite"
 skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+meta_author: Hasan Mehedi
 
 # Google webmaster tools
 google_verify:
@@ -32,10 +31,10 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Mehedi Hasan
+  location: Bangladesh
   social: Around the Web
-  credits: Credits
+  credits: Cp
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -43,12 +42,8 @@ social:
     url: http://twitter.com/jekyllrb
   - title: facebook
     url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: 
 
 # Postal address (add as many lines as necessary)
 address:
