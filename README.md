@@ -1,27 +1,32 @@
-# Fb-11-lite
-For spamming hacking first we need multiple Facebook accounts. For which basically this Facebook 11 Lite has been created
+Freelancer Jekyll theme  
+=========================
 
-![1000007253](https://github.com/mehedihasanifty/Facebook-11-lite/assets/159106189/fa13b0af-33cb-4e3d-9ced-932154cfbff9)
+Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
 
+## How to use
+ - Place a image in `/img/portfolio/`
+ - Replace `your-email@domain.com` in `_config.yml` with your email address. Refer to [formspree](http://formspree.io/) for more information.
+ - Create posts to display your projects. Use the follow as an example:
+```txt
+---
+layout: default
+modal-id: 1
+date: 2020-01-18
+img: cabin.png
+alt: image-alt
+project-date: January 2020
+client: The Client
+category: Web Development
+description: The description of the project
 
-### Details 
-Facebook 11 lite is directly related to our spamming and hacking life. fb 11 lite is the clone version of facebook lite. Fb 11 lite is not a separate software it is cloned from Fb lite by different software. You can safely use Facebook 11 Lite. 
+---
+```
 
- ### How to download.....!
+## Demo
+View this jekyll theme in action [here](https://jeromelachaud.com/freelancer-theme)
 
-![1000005618](https://github.com/infocp/Fb-11-lite/assets/158504182/5a5541a2-c387-44fe-9fe1-f5f4e0f58f49)
+## Screenshot
+![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
 
-
-# DOWNLOAD
-<!-- Click the download button to download latest release app. -->
-[<img src="https://freepngimg.com/thumb/download_now_button/25800-4-download-now-button-blue.png"
-     alt="Get it on Anonbar"
-     height="80">](https://www.google.com/search?q=anonbar+fb+11+lite&oq=Anonbar&gs_lcrp=EgZjaHJvbWUqBggFEEUYOzIGCAAQRRg8MgYIARBFGDwyBggCEEUYPDIJCAMQRRg5GIAEMgYIBBBFGDwyBggFEEUYOzIGCAYQRRg7MgYIBxBFGDvSAQgzNTgzajBqN6gCALACAA&client=ms-android-kddi-jp-revc&sourceid=chrome-mobile&ie=UTF-8)
-<!-- BEGIN LATEST DOWNLOAD BUTTON -->
-
-#### Remember
-Our cyber ​​protection team is not responsible in any way if you do any bad activity using facebook 11 lite.
-
-![](https://komarev.com/ghpvc/?username=your-github-username&label=Total+download)
- <div align="center">
-© Cyber protection
+---------
+For more details, read the [documentation](http://jekyllrb.com/)
